@@ -1,0 +1,2 @@
+Npm install på frontend och på backend mappen för att få igång appen. Skriv sedan Npm start på både frontend och backend gärna via CMD
+
